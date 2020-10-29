@@ -5,6 +5,9 @@ import java.io.OutputStream;
 import java.net.Socket;
 
 class ClientSender{
+// TODO
+// Add functionality such as dynamic filesizes, send 
+// file names, and extensions before receiving the entire file
     
     String fileLoc;
     String address;
